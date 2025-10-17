@@ -1,7 +1,7 @@
 # CS330 — C/C++ and Unix  
 **University of Oregon**
 
-This repository contains my homework assignments, labs, and optional exercises completed for **CS 330: C/C++ and Unix** at the University of Oregon.
+This repository contains my homework assignments, labs, and optional exercises completed for **CS 330: C/C++ and Unix** at the University of Oregon (Spring 2025).
 
 ---
 
